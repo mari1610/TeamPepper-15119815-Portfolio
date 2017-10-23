@@ -10,7 +10,7 @@
 
 
 # **Inleiding**
-Team Pepper heeft als doel het opleveren van een werkend prototype camerasysteem voor objectieve meting van shouderbewegingen. De belangrijkste componenten waaruit het systeem bestaat zijn: 
+Mijn team is Team Pepper, Team Pepper heeft als doel het opleveren van een werkend prototype camerasysteem voor objectieve meting van shouderbewegingen. De belangrijkste componenten waaruit het systeem bestaat zijn: 
 1) verwerking en analyse van data afkomstig van een 3D camera.
 2) een dashboard console waarop visueel de relevante schouderbewegingen en uitkomstmaten worden weergegeven voor ondersteuning van de therapeut.
 
