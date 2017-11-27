@@ -12,8 +12,8 @@
   4. Protocol maken:
     * Hier heb ik met Tony samen gewerkt om een [protocol](ProtocolOpname.docx) te maken hoe de opname gaan worden opgemonen worden. En ik heb een [formulier](SteekproefFormulier.docx) gemaakt om iedereen die werd opgenomen ook bij te invullen.
   
-   5. Opnamen Dag:
-   * Mijn taak was die dag om mensen te uitnodigen om 
+  5. Opnamen Dag:
+   * Mijn taak was die dag rondwadelen (om mensen te uitnodigen voor de opname ).
    
  
   - Xml file(FloorClipPlane) begrijpen
