@@ -2,4 +2,4 @@
 
 Ik heb twee keer gepresenteerd:
 - [InternPresentatie](Intern\P3.pptx) op 29 september
-- [ExternPresentatie](Extern\P5.pptx) op 24 november
+- [ExternPresentatie](ExternP5.pptx) op 24 november
