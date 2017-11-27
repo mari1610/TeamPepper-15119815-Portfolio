@@ -19,6 +19,8 @@ Mijn team is Team Pepper, Team Pepper heeft als doel het opleveren van een werke
 Het project wordt verdeeld in Sprint en per Sprint wordt taken verdeeld.
 De taken die ik heb uitgevoerd staan bij het map Scrum.
 
+[Hier](Cursus/cursus.md)
+
 ## Cursussen
 De cursussen die ik heb gemaakt staan bij de map Cursus.
 
