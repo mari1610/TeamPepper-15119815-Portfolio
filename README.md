@@ -21,7 +21,7 @@ De taken die ik heb uitgevoerd staan bij het map [Scrum](Scrum/Scrum.md).
 
 
 ## Cursussen
-De cursussen die ik heb gemaakt staan bij de map [Cursus](Cursus/cursus).
+De cursussen die ik heb gemaakt staan bij de map [Cursus](Cursus/cursus.md).
 
 ## Presentatie
 De presentatie die ik heb gemaakt staat bij de map [Presentatie](Presentatie).
