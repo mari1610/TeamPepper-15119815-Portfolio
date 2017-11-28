@@ -26,6 +26,8 @@
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
     * Handmatig hoeken meten van 4 personen en van exercise [1](P1E1-695.png) , [2](P4E2-095pj.png) en [3](P1E3-300pj.png). 
       Hier wordt per exercise gemeten en per 5 frames.
+    * [Gegevens van de Kinect](DataKinect.ipynb) die ik nodig had voor valideren met behulp van python uitgehaald.
+      De Algoritme zelf is door andere groepleden gemaakt en ik alleen de nodige data gehaald.
     * Ik heb voor elke exercise een excel sheet gemaakt hoeken van de handmatige metingen en die van de Kinect. 
       En daarna heb ik die op cvs bestaand opgeslaan.
       - [Exercise 1](EX1DataVal.xlsx)
@@ -35,7 +37,7 @@
       - [Exercise 1](Ex1-Valideren.ipynb)
       - [Exercise 2](Ex2-Valideren.ipynb)
       - [Exercise 3](Ex3-Valideren.ipynb)
-    * Correlatie cooeficient van elke exercise:
+    * Correlatie coeficient van elke exercise:
       - [Exercise 1](CorelatieC_Ex1.png)
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
