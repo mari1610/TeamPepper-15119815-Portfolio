@@ -8,21 +8,21 @@ De taken die ik tijdens het project heb gedaan zijn:
     * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om het te bestuderen.
     
   3.  Meerdere camera's werkend te kregen: 
-    * Het draaien krijgen van meerder web-camera's op een laptop. Hier was ik bezig om een applicatie te zoeken waar ik 2 à 3 webcamara's op gelijke tempo kan opnemen. Ik heb safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben dit niet meer gebruikt. In plaats van werd gekozen om gewone video camara's te gebruiken, die geleend werd van school.
+    * Het werkend krijgen van meerder web-camera's op een laptop. Hier zocht ik voor een applicatie waar twee à drie webcamara's op gelijke tempo kon opnemen. Ik had safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben we dit niet meer gebruikt. In plaats daarvan werd gekozen om gewone video camara's te gebruiken, die geleend werden van de school.
     
   4. Protocol & Formulier:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.docx) gemaakt voor het opnemen van beelden (exercises)
-    * Een [formulier](SteekproefFormulier.docx) gemaakt voor de proefpersonen.
+    * Een [formulier](SteekproefFormulier.docx) opgesteld voor de proefpersonen.
   
-  5. Opnamen Dag:
-   * Mijn taak was die dag rondwadelen (om mensen te uitnodigen voor de opname).
+  5. Dagen van opnames:
+   * Mijn taak was die dag rondlopen om mensen te uitnodigen voor de opname.
    
   6. Xml file (FloorClipPlane) begrijpen:
-    * Bij de XML van Kinect zijn variabelen die niet helemaal duidelijk waren. Mijn taak was om de [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
+    * Bij de XML van Kinect zijn variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
    
   7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
-    * Data van de opgenomen personen werd op de server geimporteerd.
-    * Een [korte uitlegd](Terminal.docx) gemaakt hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gemaakt door verzoek van mijn groepleden.
+    * Data van de opnames van de personen werd op de server geimporteerd.
+    * Een [korte uitlegd](Terminal.docx) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
   
   8. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
