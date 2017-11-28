@@ -1,28 +1,28 @@
 ## Scrum taken
-De taken die ik tijdens de project heb gedaan zijn:
+De taken die ik tijdens het project heb gedaan zijn:
 
   1. Literatuur onderzoek naar anotomie van de schouder:
     * Hier heb ik samen met Laura literatuur onderzoek gedaan en een [document](anatomieSchouder.docx) van gemaakt.
     
   2.  Literatuur onderzoek naar skeleton libraries:
-    * Hier heb ik literatuur gaan zoeken over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om te bestuden.
+    * Hier heb ik literatuur gaan zoeken over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om bestudeerd te worden.
     
   3.  Meerdere camera werkend krijgen: 
     * Het draaien krijgen van meerder web-cameras op een laptop. Hier was ik bezig om een applicatie te zoeken waar ik 2 à 3 webcamara's op gelijke tempo kan opnemen. Ik heb safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben dit niet meer gebruikt. In plaats van werd gekozen om gewone video camara's te gebruiken, die geleend werd van school.
     
-  4. Protocol & Formulier maken:
+  4. Protocol & Formulier:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.docx) gemaakt voor het opnemen van beelden (exercises)
     * Een [formulier](SteekproefFormulier.docx) gemaakt voor de proefpersonen.
   
   5. Opnamen Dag:
-   * Mijn taak was die dag rondwadelen (om mensen te uitnodigen voor de opname ).
+   * Mijn taak was die dag rondwadelen (om mensen te uitnodigen voor de opname).
    
   6. Xml file (FloorClipPlane) begrijpen:
     * Bij de XML van Kinect zijn variabelen die niet helemaal duidelijk waren. Mijn taak was om de [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
    
   7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opgenomen personen werd op de server geimporteerd.
-    * Een [korte uitlegd](Terminal.docx) gemaakt hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gemaakt door verzoek van andere groepsleden.
+    * Een [korte uitlegd](Terminal.docx) gemaakt hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gemaakt door verzoek van mijn groepleden.
   
   8. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
