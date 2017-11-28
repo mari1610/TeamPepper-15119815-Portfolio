@@ -18,11 +18,12 @@
   6. Xml file (FloorClipPlane) begrijpen:
     * Na de opname hebben we uit de kinect gegevens gekregen die niet alles begrijpen. Mijn taak was om de [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
    
-  7. Data(opgenomenData) naar de Server importeren (Xml of CSV)
+  7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Hier heb ik alle data van de opgenomen personen op de server geimporteerd.
     * En een [korte document](Terminal.docx) gemaakt, om naar de ander leden(die niet wisten met een terminal te werken) van mijn groep te uitleggen hoe de data naar hun eigen account kunnen importeren of exporteren naar Pepper
   
   8. Valideren:
+    * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
     * Handmatig hoeken kunnen meten (tijdreeksen kunnen meten met de opgenome beeelden)
     Corelatie coeficient
     
