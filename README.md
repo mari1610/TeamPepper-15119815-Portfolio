@@ -14,7 +14,7 @@ Mijn team is Team Pepper, Team Pepper heeft als doel het opleveren van een werke
 1) verwerking en analyse van data afkomstig van een 3D camera.
 2) een dashboard console waarop visueel de relevante schouderbewegingen en uitkomstmaten worden weergegeven voor ondersteuning van de therapeut.
 
-In deze portfolio wil ik in het kort vertellen hoe en wat heb in aan mijn project mee gedraagd.
+In deze portfolio wil ik in het kort vertellen wat ik allemaal heb meegedragen aan mijn project.
 
 
 ## Scrum
