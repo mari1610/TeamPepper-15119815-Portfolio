@@ -26,5 +26,5 @@ De taken die ik heb uitgevoerd staan bij het map [Scrum](Scrum/ReadScrum.md).
 De cursussen die ik heb gemaakt staan bij de map [Cursus](Cursus/Readcursus.md).
 
 ## Presentatie
-De presentatie die ik heb gemaakt staat bij de map [Presentatie](Presentatie/ReadPresentatie.md).
+De presentatie die ik heb gedaan staan bij de map [Presentatie](Presentatie/ReadPresentatie.md).
 
