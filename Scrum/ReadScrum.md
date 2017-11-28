@@ -24,8 +24,13 @@
   
   8. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
-    * Handmatig hoeken meten van 4 personen en van exercise [1](P1E1-695.png) , 2 en 3. 
-      Hier wordt per exercise gemeten en per 5 frames van die exercise.
+    * Handmatig hoeken meten van 4 personen en van exercise [1](P1E1-695.png) , [2](P4E2-095pj.png) en [3](P1E3-300pj.png). 
+      Hier wordt per exercise gemeten en per 5 frames.
+    * Ik heb voor elke exercise een excel sheet gemaakt.
+      - [Exercise 1](EX1DataVal.xlsx)
+      - [Exercise 2]
+      - Exercise 3
+    
       
       
     
