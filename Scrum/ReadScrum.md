@@ -1,7 +1,7 @@
 ## Scrum taken
 
   1. Literatuur onderzoek naar anotomie schouder:
-    * Hier heb ik samen met Laura literatuur onderzoek gaan doen aan de anotomie van de schouder en een [document](anatomieSchouder.docx) van gemaakt wat wij gevonden hadden. 
+    * Hier heb ik samen met Laura literatuur onderzoek gaan doen aan de anotomie van de schouder en een [document](anatomieSchouder.docx) van gemaakt wat wij hadden gevonden. 
     
   2.  Literatuur onderzoek naar skeleton libraries:
     * Bij deze taak heb ik een literatuur onderzoek gaan doen over skeleton libraries en een [lijst](LiteratuurLijst.xlsx) voor gemaakt om met mijn te delen en de literatuur te verdelen om te lezen.
@@ -15,11 +15,15 @@
   5. Opnamen Dag:
    * Mijn taak was die dag rondwadelen (om mensen te uitnodigen voor de opname ).
    
- 
-  - Xml file(FloorClipPlane) begrijpen
-  - Data(opgenomenData) naar de Server importeren (Xml of CSV)
-  - Valideren:
-    Handmatig hoeken kunnen meten (tijdreeksen kunnen meten met de opgenome beeelden)
+  6. Xml file (FloorClipPlane) begrijpen:
+    * Na de opname hebben we uit de kinect gegevens gekregen die niet alles begrijpen. Mijn taak was om de [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
+   
+  7. Data(opgenomenData) naar de Server importeren (Xml of CSV)
+    * Hier heb ik alle data van de opgenomen personen op de server geimporteerd.
+    * En een [korte document](Terminal.docx) gemaakt, om naar de ander leden(die niet wisten met een terminal te werken) van mijn groep te uitleggen hoe de data naar hun eigen account kunnen importeren of exporteren naar Pepper
+  
+  8. Valideren:
+    * Handmatig hoeken kunnen meten (tijdreeksen kunnen meten met de opgenome beeelden)
     Corelatie coeficient
     
  
