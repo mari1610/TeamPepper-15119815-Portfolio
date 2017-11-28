@@ -43,6 +43,9 @@
       - [Exercise 3](CorelatieC_Ex3.png)
     * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitlegd hoe en wat gevalideerd heb.
     
+  9. Grafieken die ik had gemaakt van onze Data:
+  
+    
     
       
 
