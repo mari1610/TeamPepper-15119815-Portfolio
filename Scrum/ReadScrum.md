@@ -24,7 +24,11 @@
   
   8. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
-    * Handmatig hoeken kunnen meten (tijdreeksen kunnen meten met de opgenome beeelden)
+    * Handmatig hoeken meten van 4 personen en van exercise [1](P1E1-695.png) , 2 en 3. 
+      Hier wordt per exercise gemeten en per 5 frames van die exercise.
+      
+      
+    
     Corelatie coeficient
     
  
