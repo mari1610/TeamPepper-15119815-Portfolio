@@ -2,13 +2,13 @@
 
 ##  *DataCamp*
 
-Hier onder staan de cursus die ik bij DataCamp heb gevolgd.
+Hier onder staan de cursussen die ik bij DataCamp heb gevolgd.
 
 ![DataCamp](DataCamp.png)
 
 ## *Coursera*
 
-Hier onder staan de cursus die ik bij Coursera heb gevolgd.
+Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ![Coursera](Coursera-Week1.png)
 
