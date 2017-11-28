@@ -5,10 +5,10 @@ De taken die ik tijdens het project heb gedaan zijn:
     * Hier heb ik samen met Laura literatuur onderzoek gedaan en een [document](anatomieSchouder.docx) van gemaakt.
     
   2.  Literatuur onderzoek naar skeleton libraries:
-    * Hier heb ik literatuur gaan zoeken over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om bestudeerd te worden.
+    * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om het te bestuderen.
     
-  3.  Meerdere camera werkend krijgen: 
-    * Het draaien krijgen van meerder web-cameras op een laptop. Hier was ik bezig om een applicatie te zoeken waar ik 2 à 3 webcamara's op gelijke tempo kan opnemen. Ik heb safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben dit niet meer gebruikt. In plaats van werd gekozen om gewone video camara's te gebruiken, die geleend werd van school.
+  3.  Meerdere camera's werkend te kregen: 
+    * Het draaien krijgen van meerder web-camera's op een laptop. Hier was ik bezig om een applicatie te zoeken waar ik 2 à 3 webcamara's op gelijke tempo kan opnemen. Ik heb safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben dit niet meer gebruikt. In plaats van werd gekozen om gewone video camara's te gebruiken, die geleend werd van school.
     
   4. Protocol & Formulier:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.docx) gemaakt voor het opnemen van beelden (exercises)
