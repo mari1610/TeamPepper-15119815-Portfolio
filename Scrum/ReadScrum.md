@@ -15,22 +15,22 @@ De taken die ik tijdens het project heb gedaan zijn:
     * Een [formulier](SteekproefFormulier.docx) opgesteld voor de proefpersonen.
   
   5. Dagen van opnames:
-   * Mijn taak was die dag rondlopen om mensen te uitnodigen voor de opname.
+   * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
   6. Xml file (FloorClipPlane) begrijpen:
-    * Bij de XML van Kinect zijn variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
+    * Bij de XML van Kinect waren variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
    
   7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opnames van de personen werd op de server geimporteerd.
     * Een [korte uitlegd](Terminal.docx) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
   
   8. Valideren:
-    * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) downloaden om handmatige te kunnen valideren
-    * Handmatig hoeken meten van 4 personen en van exercise [1](P1E1-695.png) , [2](P4E2-095pj.png) en [3](P1E3-300pj.png). 
+    * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) gedownload om handmatige te kunnen valideren
+    * Handmatig hoeken meten van 4 personen en van de exercises [1](P1E1-695.png) , [2](P4E2-095pj.png) en [3](P1E3-300pj.png). 
       Hier wordt per exercise gemeten en per 5 frames.
-    * [Gegevens van de Kinect](DataKinect.ipynb) die ik nodig had voor valideren met behulp van python uitgehaald.
-      De Algoritme zelf is door andere groepleden gemaakt, maar ik heb wel de nodige gegevens voor valideren gehaald.
-    * Voor elke exercise werd een excel sheet van gemaakt. Daar werd op een tabel ingevuld de resulaten van de handmatige hoeken en ook de resultaten van de Kinect.
+    * [Gegevens van de Kinect](DataKinect.ipynb) die ik nodig had voor valideren is met behulp van python uitgehaald.
+      De Algoritme zelf is door andere groepsleden gemaakt, maar ik heb wel de nodige gegevens voor valideren gehaald.
+    * Voor elke exercise werd een excel sheet van gemaakt. Daar werd de resulaten van de handmatige hoeken in een tabel ingevuld en ook de resultaten van de Kinect.
       - [Exercise 1](EX1DataVal.xlsx)
       - [Exercise 2](EX2DataValMeting.xlsx)
       - [Exercise 3](EX3DataValMeting.xlsx)
@@ -42,7 +42,7 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 1](CorelatieC_Ex1.png)
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
-    * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitlegd hoe en wat gevalideerd heb.
+    * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
     
 
   
