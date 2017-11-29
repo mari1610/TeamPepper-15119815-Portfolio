@@ -14,7 +14,7 @@ De taken die ik tijdens het project heb gedaan zijn:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.docx) gemaakt voor het opnemen van beelden (exercises)
     * Een [formulier](SteekproefFormulier.docx) opgesteld voor de proefpersonen.
   
-  5. Dagen van opnames:
+  5. Dag van opname van Data bij de atrium:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
   6. Xml file (FloorClipPlane) begrijpen:
