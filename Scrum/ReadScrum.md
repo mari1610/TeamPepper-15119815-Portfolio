@@ -58,7 +58,7 @@ De taken die ik tijdens het project heb gedaan zijn:
   
   ![ClusterP](ClusterP.PNG)
   
-  Hier kan de python [file](K-mean.ipynb) krijgen.
+  Hier kan de python [notebook](K-mean.ipynb) krijgen.
 
     
 
