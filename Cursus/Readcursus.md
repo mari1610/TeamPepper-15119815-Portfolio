@@ -10,7 +10,7 @@ Hier onder staan de cursussen die ik bij DataCamp heb gevolgd.
 
 Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
-![Coursera](Coursera-Week1.png)
+![Coursera](coursera.PNG)
 
 ## *Spark*
 
