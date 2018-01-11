@@ -50,7 +50,9 @@ De taken die ik tijdens het project heb gedaan zijn:
     De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3.pptx) gezet.
     
  9. Data opname bij zuiderpark
-    * Op deze heb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's enbij het invullen van het formulier.
+    * Op deze heb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
+  
+  10. Data Clusteren
     
 
   
