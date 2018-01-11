@@ -44,6 +44,11 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 3](CorelatieC_Ex3.png)
     * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
     
+    * Na de vorige validatie is voor gekozen om exercise 3 opnieuw te valideren.
+    De reden hiervoor was omdat als groepen dachten we dat de vorige beelden te donker waren om goed de hoeken te meten.
+    Voor deze validatie zijn dezelfde stappen van de vorige validatie gemaakt.
+    De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3.pptx) gezet.
+    
 
   
     
