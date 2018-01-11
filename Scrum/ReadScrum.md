@@ -54,7 +54,7 @@ De taken die ik tijdens het project heb gedaan zijn:
   
   10. Data Clusteren:
   Maximale hoek van exercise 1.
-  ![MaximaleHoek](ClusterHoekenEx1.png)
+  ![MaximaleHoek](ClusterHoekenEx1.PNG)
 
     
 
