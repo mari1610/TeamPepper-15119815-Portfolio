@@ -12,6 +12,12 @@ Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ![Coursera](coursera.PNG)
 
+## *Exploratory Data Analysis*
+
+Hier onder staan de cursussen die ik bij Exploratory Data Analysis  heb gevolgd.
+
+![ExploratoryDataAnalysis](ExploratoryDataAnalysis)
+
 ## *Spark*
 
 
