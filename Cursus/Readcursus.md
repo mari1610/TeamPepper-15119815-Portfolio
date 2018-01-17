@@ -14,10 +14,7 @@ Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ## *Exploratory Data Analysis*
 
-Hier onder staan de cursussen die ik bij Exploratory Data Analysis  heb gevolgd.
-
-![Exploratory](ExploratoryDataAnalysis/ExploratoryDataAnalysis.md)
-
+[Hier](ExploratoryDataAnalysis/ExploratoryDataAnalysis.md) staan de cursussen die ik bij Exploratory Data Analysis  heb gevolgd.
 
 
 ## *Spark*
