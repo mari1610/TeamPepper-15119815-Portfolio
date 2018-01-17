@@ -25,6 +25,6 @@ Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ## *Calling bullshit*
 
-Bij [deze document](CallingBullshitMaricruV-15119815.docx) staat de opdracht die ik voor Calling bullshit heb ingeleverd.
+Bij [deze document](CallingBullshitMaricruV-15119815.pdf) staat de opdracht die ik voor Calling bullshit heb ingeleverd.
 
 
