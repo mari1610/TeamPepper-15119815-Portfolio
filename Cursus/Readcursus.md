@@ -19,6 +19,8 @@ Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ## *Spark*
 
+[Hier](Spark/Spark.md) staan de cursussen die ik bij Spark heb gevold
+
 
 
 ## *Calling bullshit*
