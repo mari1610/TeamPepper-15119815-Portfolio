@@ -1,7 +1,7 @@
 # **ExploratoryDataAnalysis**
 
 
-[1 Checking Data Edges](/ExploratoryDataAnalysis/1%20Checking%20Data%20Edges.ipynb)
+[1 Checking Data Edges](1%20Checking%20Data%20Edges.ipynb)
 
 [2 Identifying variables](ExploratoryDataAnalysis/2%20Identifying%20variables.ipynb)
 
