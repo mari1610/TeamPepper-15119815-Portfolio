@@ -12,7 +12,7 @@ De taken die ik tijdens het project heb gedaan zijn:
     
   4. Protocol & Formulier:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.pdf) gemaakt voor het opnemen van beelden (exercises)
-    * Een [formulier](SteekproefFormulier.docx) opgesteld voor de proefpersonen.
+    * Een [formulier](SteekproefFormulier.pdf) opgesteld voor de proefpersonen.
   
   5. Dag van opname van Data bij de atrium:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
