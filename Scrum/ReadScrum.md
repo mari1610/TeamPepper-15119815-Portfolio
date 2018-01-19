@@ -42,6 +42,40 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 1](CorelatieC_Ex1.png)
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
+      
+         1.	Welke coëfficiënt is er gebruikt en op welke variabelen? 
+         
+                	Graden van oefening 1 (eerste gedeelte van de oefening), rechterarm.
+                	Variabelen:	
+                •	Dgraden = Handmatige meting van hoeken in graden
+                •	RechtGraden =	kinect data berekening met behulp van een 
+                    Algoritme (voor de rotatie).
+
+                	Graden van oefening 2 (eerste gedeelte van de oefening), linkerarm.
+                	Variabelen:
+                •	Dgraden = Handmatige meting van hoeken in graden 
+                •	SgradenWoR = kinect data berekening met behulp van een 
+                    Algoritme (voor de rotatie).
+
+                	Graden van oefening 3 (eerste gedeelte van oefening), rechterhand.
+                	Variabelen:
+                •	CGraden = Handmatige meting van hoeken in graden
+                •	KGraden = kinect data berekening met behulp van een 
+                    Algoritme (voor de rotatie).
+
+      
+          2.	Hoe kun je de coëfficiënt berekenen van 1 persoon?
+              Door de handmatige metingen van hoeken in graden van één oefening te nemen (gefilmd is met een gewone camera)
+              met de (automatische) meting van hoeken in graden met de kinect camera. Hier wordt geschat waar ongeveer alle
+              2 camera’s op hetzelfde tijdstip (frame) zijn.
+         3.	Waarom bereken je de correlatie van 1 persoon?
+            Om te valideren als de meting klopt.
+
+
+
+      
+      
+      
     * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
     
     * Na de vorige validatie is voor gekozen om exercise 3 opnieuw te valideren.
