@@ -22,7 +22,7 @@ De taken die ik tijdens het project heb gedaan zijn:
    
   7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opnames van de personen werd op de server geimporteerd.
-    * Een [korte uitlegd](Terminal.docx) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
+    * Een [korte uitlegd](Terminal.pdf) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
   
   8. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) gedownload om handmatige te kunnen valideren
