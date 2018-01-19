@@ -18,7 +18,7 @@ De taken die ik tijdens het project heb gedaan zijn:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
   6. Xml file (FloorClipPlane) begrijpen:
-    * Bij de XML van Kinect waren variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.docx) te onderzoeken. 
+    * Bij de XML van Kinect waren variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.pdf) te onderzoeken. 
    
   7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opnames van de personen werd op de server geimporteerd.
