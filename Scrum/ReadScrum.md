@@ -2,7 +2,7 @@
 De taken die ik tijdens het project heb gedaan zijn:
 
   1. Literatuur onderzoek naar anotomie van de schouder:
-    * Hier heb ik samen met Laura literatuur onderzoek gedaan en een [document](anatomieSchouder.docx) van gemaakt.
+    * Hier heb ik samen met Laura literatuur onderzoek gedaan en een [document](anatomieSchouder.pdf) van gemaakt.
     
   2.  Literatuur onderzoek naar skeleton libraries:
     * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om het te bestuderen.
