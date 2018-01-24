@@ -11,6 +11,7 @@ Hier onder staan de cursussen die ik bij DataCamp heb gevolgd.
 Hier onder staan de cursussen die ik bij Coursera heb gevolgd.
 
 ![Coursera](Coursera1.png)
+
 ![Coursera1](coursera2.png)
 
 ## *Exploratory Data Analysis*
