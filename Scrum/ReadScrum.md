@@ -59,7 +59,7 @@ De taken die ik tijdens het project heb gedaan zijn:
   
  11. Dashboard:
  Er is een mock-up gemaakt hoe de Dashboard zou gaan zien van onze applicatie.
- Jammer genoeg is niet gelukt om te realiseren, maar we hadden wel een idee erover.
+ Jammer genoeg is niet gelukt om te implementeren, maar we hadden wel een idee erover.
  Samen met Bart hebben we de [Mockup]() gemaakt:
  
  12. Data Clusteren:
