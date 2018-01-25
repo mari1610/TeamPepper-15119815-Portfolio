@@ -15,7 +15,7 @@ In deze portfolio wil ik in het kort vertellen wat ik allemaal heb meegedragen a
 
 ### Scrum
 Het project wordt verdeeld in Sprint en per Sprint wordt taken verdeeld.
-De taken die ik heb uitgevoerd staan bij het map [Scrum](Scrum/ReadScrum.md).
+De taken die ik heb uitgevoerd staan bij det map [Scrum](Scrum/ReadScrum.md).
 
 
 ### Cursussen
