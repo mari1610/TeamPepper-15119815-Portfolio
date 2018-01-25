@@ -8,7 +8,7 @@ De taken die ik tijdens het project heb gedaan zijn:
     * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om het te bestuderen.
     
   3.  Meerdere camera's werkend te kregen: 
-    * Het werkend krijgen van meerder web-camera's op een laptop. Hier zocht ik voor een applicatie waar twee à drie webcamara's op gelijke tempo kon opnemen. Ik had safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben we dit niet meer gebruikt. In plaats daarvan werd gekozen om gewone video camara's te gebruiken, die geleend werden van de school.
+    * Het werkend krijgen van meerder web-camera's op een laptop. Hier zocht ik voor een applicatie waar twee à drie webcamara's op gelijke tempo kon opnemen. Ik had safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben we dit niet meer gebruikt. In plaats daarvan werd gekozen om gewone video camara's te gebruiken, die geleend werden van school.
     
   4. Protocol & Formulier:
     * Samen met Tony hebben we een [protocol](ProtocolOpname.pdf) gemaakt voor het opnemen van beelden (exercises)
