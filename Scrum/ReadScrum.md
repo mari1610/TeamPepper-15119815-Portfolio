@@ -38,10 +38,12 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 1](Ex1-Valideren.ipynb)
       - [Exercise 2](Ex2-Valideren.ipynb)
       - [Exercise 3](Ex3-Valideren.ipynb)
-    * Correlatie coeficient van elke exercise gemaakt:
+    * Correlatie coëfficiënt van elke exercise gemaakt:
       - [Exercise 1](CorelatieC_Ex1.png)
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
+      
+      Zie bijlage voor meer informatie over de correlatie coëfficiënt.
       
          1.	Welke coëfficiënt is er gebruikt en op welke variabelen? 
          
