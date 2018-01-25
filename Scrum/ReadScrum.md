@@ -70,10 +70,12 @@ De taken die ik tijdens het project heb gedaan zijn:
   
   Hier kan de python [notebook](K-mean.ipynb) krijgen.
   
-  12. Paper:
+  13. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
-    De stuk die ik heb gescheven is Validatie.
+    De stuk die ik heb geschreven is Validatie.
     
+  14. Demo-vidio:
+   
 
     
 
