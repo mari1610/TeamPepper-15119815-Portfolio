@@ -46,26 +46,34 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
       
-      Zie [bijlage](correlatie.pdf) voor meer informatie over de correlatie coëfficiënt.
-      
-      
-    * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
+      Zie [bijlage](Correlatie.pdf) voor meer informatie over de correlatie coëfficiënt.
+  * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
     
-    * Na de vorige validatie is voor gekozen om exercise 3 opnieuw te valideren.
+  * Na de vorige validatie is voor gekozen om exercise 3 opnieuw te valideren.
     De reden hiervoor was omdat als groepen dachten we dat de vorige beelden te donker waren om goed de hoeken te meten.
     Voor deze validatie zijn dezelfde stappen van de vorige validatie gemaakt.
     De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3.pptx) gezet.
     
 10. Data opname bij zuiderpark:
-    * Op deze heb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
+  * Op deze  dagheb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
   
- 11. Data Clusteren:
+ 11. Dashboard:
+ Er is een mock-up gemaakt hoe de Dashboard zou gaan zien van onze applicatie.
+ Jammer genoeg is niet gelukt om te realiseren, maar we hadden wel een idee erover.
+ Samen met Bart hebben we de [Mockup]() gemaakt:
+ 
+ 12. Data Clusteren:
   Maximale hoek van exercise 1.
   ![MaximaleHoek](ClusterHoekenEx1.PNG)
   
   ![ClusterP](ClusterP.PNG)
   
   Hier kan de python [notebook](K-mean.ipynb) krijgen.
+  
+  12. Paper:
+    Voor het afronden van onze project hebben we een paper geschreven.
+    De stuk die ik heb gescheven is Validatie.
+    
 
     
 
