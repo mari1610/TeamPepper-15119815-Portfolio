@@ -1,10 +1,6 @@
-##   **Portfolio**
+##   **Portfolio Maricruz Villanueva**
   
-**Naam:** Maricruz Villanueva
-
-
 **Studentnr.:** 15119815
-
 
 **Team:** Pepper
 
