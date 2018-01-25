@@ -17,14 +17,17 @@ De taken die ik tijdens het project heb gedaan zijn:
   5. Dag van opname van Data bij de atrium:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
-  6. Xml file (FloorClipPlane) begrijpen:
+  6.Gesprek met opdrachtgeven  manueel Therapeut) van LUMC Leiden:
+    Ik heb 3 keer een afspraak mee gewoond bij de manueel Therapeut in LUMC Leiden. 
+   
+  7. Xml file (FloorClipPlane) begrijpen:
     * Bij de XML van Kinect waren variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.pdf) te onderzoeken. 
    
-  7. Data(opgenomenData) naar de Server importeren (Xml of CSV):
+  8. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opnames van de personen werd op de server geimporteerd.
     * Een [korte uitlegd](Terminal.pdf) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
   
-  8. Valideren:
+  9. Valideren:
     * De tool [Protractor](http://download.cnet.com/Protractor/3000-2053_4-10973644.html) gedownload om handmatige te kunnen valideren
     * Handmatig hoeken meten van 4 personen en van de exercises [1](P1E1-695.png) , [2](P4E2-095pj.png) en [3](P1E3-300pj.png). 
       Hier wordt per exercise gemeten en per 5 frames.
@@ -43,39 +46,7 @@ De taken die ik tijdens het project heb gedaan zijn:
       - [Exercise 2](CorelatieC_Ex2.png)
       - [Exercise 3](CorelatieC_Ex3.png)
       
-      Zie bijlage voor meer informatie over de correlatie coëfficiënt.
-      
-         1.	Welke coëfficiënt is er gebruikt en op welke variabelen? 
-         
-                	Graden van oefening 1 (eerste gedeelte van de oefening), rechterarm.
-                	Variabelen:	
-                •	Dgraden = Handmatige meting van hoeken in graden
-                •	RechtGraden =	kinect data berekening met behulp van een 
-                    Algoritme (voor de rotatie).
-
-                	Graden van oefening 2 (eerste gedeelte van de oefening), linkerarm.
-                	Variabelen:
-                •	Dgraden = Handmatige meting van hoeken in graden 
-                •	SgradenWoR = kinect data berekening met behulp van een 
-                    Algoritme (voor de rotatie).
-
-                	Graden van oefening 3 (eerste gedeelte van oefening), rechterhand.
-                	Variabelen:
-                •	CGraden = Handmatige meting van hoeken in graden
-                •	KGraden = kinect data berekening met behulp van een 
-                    Algoritme (voor de rotatie).
-
-      
-          2.	Hoe kun je de coëfficiënt berekenen van 1 persoon?
-              Door de handmatige metingen van hoeken in graden van één oefening te nemen (gefilmd is met een gewone camera)
-              met de (automatische) meting van hoeken in graden met de kinect camera. Hier wordt geschat waar ongeveer alle
-              2 camera’s op hetzelfde tijdstip (frame) zijn.
-         3.	Waarom bereken je de correlatie van 1 persoon?
-            Om te valideren als de meting klopt.
-
-
-
-      
+      Zie [bijlage](correlatie.pdf) voor meer informatie over de correlatie coëfficiënt.
       
       
     * [PowerPoint](Valideren.pptx) gemaakt, waar ik uitleg over de hoe en wat gevalideerd werd.
@@ -85,10 +56,10 @@ De taken die ik tijdens het project heb gedaan zijn:
     Voor deze validatie zijn dezelfde stappen van de vorige validatie gemaakt.
     De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3.pptx) gezet.
     
- 9. Data opname bij zuiderpark:
+10. Data opname bij zuiderpark:
     * Op deze heb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
   
-  10. Data Clusteren:
+ 11. Data Clusteren:
   Maximale hoek van exercise 1.
   ![MaximaleHoek](ClusterHoekenEx1.PNG)
   
