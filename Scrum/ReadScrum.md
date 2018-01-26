@@ -61,18 +61,16 @@ De taken die ik tijdens het project heb gedaan zijn:
  Er is een mock-up gemaakt hoe de Dashboard zou gaan zien van onze applicatie.
  Jammer genoeg is niet gelukt om te implementeren, maar we hadden wel een idee erover.
  Samen met Bart hebben we de [Mockup](DashBoard.pdf) gemaakt.
- 
- 12. Analyse:
-    Tabellen die ik uitgevoerd heb om date te analyseren:
-    - Variabelen: Graden en Framenummer van de Rechte en Linker arm.
- 
- 13. Data Clusteren:
+  
+ 12. Data Clusteren:
   - Maximale hoek van exercise 1.
     Hier kan de [notebook](max_hoek_ex1.ipynb) krijgen.
   - Maximale hoek van exercise 2.
     Hier kan de [notebook](max_hoek_ex2.ipynb) krijgen.
-  
-  14. Paper:
+  - Maximale hoek van exercise 3.
+    Hier kan de [notebook](max_hoek_ex3.ipynb) krijgen.
+    
+  13. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
     Hier heb ik ook mee geholpen.
    
