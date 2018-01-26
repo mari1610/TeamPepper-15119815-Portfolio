@@ -67,12 +67,8 @@ De taken die ik tijdens het project heb gedaan zijn:
     - Variabelen: Graden en Framenummer van de Rechte en Linker arm.
  
  13. Data Clusteren:
-  Maximale hoek van exercise 1.
-  ![MaximaleHoek](ClusterHoekenEx1.PNG)
-  
-  ![ClusterP](ClusterP.PNG)
-  
-  Hier kan de python [notebook](max_hoek_ex1.ipynb) krijgen.
+  - Maximale hoek van exercise 1.
+    Hier kan de [notebook](max_hoek_ex1.ipynb) krijgen.
   
   14. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
