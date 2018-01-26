@@ -63,7 +63,7 @@ De taken die ik tijdens het project heb gedaan zijn:
  Jammer genoeg is niet gelukt om te implementeren, maar we hadden wel een idee erover.
  Samen met Bart hebben we de [Mockup](DashBoard.pdf) gemaakt.
   
- 12. Data Clusteren:
+ 12. Data Clusteren & Analyse:
   - Maximale hoek van exercise 1.
     Hier kan de [notebook](max_hoek_ex1.ipynb) krijgen.
   - Maximale hoek van exercise 2.
