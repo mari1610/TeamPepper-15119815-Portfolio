@@ -60,9 +60,13 @@ De taken die ik tijdens het project heb gedaan zijn:
  11. Dashboard:
  Er is een mock-up gemaakt hoe de Dashboard zou gaan zien van onze applicatie.
  Jammer genoeg is niet gelukt om te implementeren, maar we hadden wel een idee erover.
- Samen met Bart hebben we de [Mockup](DashBoard.pdf) gemaakt:
+ Samen met Bart hebben we de [Mockup](DashBoard.pdf) gemaakt.
  
- 12. Data Clusteren:
+ 12. Analyse:
+    Tabellen die ik uitgevoerd heb om date te analyseren:
+    - Variabelen: Graden en Framenummer van de Rechte en Linker arm.
+ 
+ 13. Data Clusteren:
   Maximale hoek van exercise 1.
   ![MaximaleHoek](ClusterHoekenEx1.PNG)
   
@@ -70,11 +74,11 @@ De taken die ik tijdens het project heb gedaan zijn:
   
   Hier kan de python [notebook](K-mean.ipynb) krijgen.
   
-  13. Paper:
+  14. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
     De stuk die ik heb geschreven is Validatie.
     
-  14. Demo-vidio:
+  15. Demo-vidio:
    
 
     
