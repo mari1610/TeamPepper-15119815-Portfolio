@@ -3,26 +3,26 @@ De taken die ik tijdens het project heb gedaan zijn:
 
   1. Literatuur onderzoek naar anotomie van de schouder:
     * Hier heb ik samen met Laura literatuur onderzoek gedaan en een [document](anatomieSchouder.pdf) van gemaakt.
+      De doel was om meer te verdiepen over die onderwerp.
     
   2.  Literatuur onderzoek naar skeleton libraries:
-    * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om het te bestuderen.
+    * Hier zocht ik literatuur over de skeleton libraries en een [lijst](LiteratuurLijst.xlsx) van de gevonden literatuur gemaakt. En daarna is de literatuur verdeeld onder de groepsleden om de papers te gaan lezen.
     
   3.  Meerdere camera's werkend te kregen: 
-    * Het werkend krijgen van meerder web-camera's op een laptop. Hier zocht ik voor een applicatie waar twee à drie webcamara's op gelijke tempo kon opnemen. Ik had safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben we dit niet meer gebruikt. In plaats daarvan werd gekozen om gewone video camara's te gebruiken, die geleend werden van school.
+    * Het werkend krijgen van meerder web-camera's op een laptop. Hier zocht ik voor een applicatie waar twee à drie webcamara's op gelijke tempo kon opnemen. Ik had safe4cam http://www.mipropiosoft.com/safe4cam/ gevonden, maar uiteindelijk hebben we dit niet meer gebruikt. In plaats daarvan werd gekozen om gewone video camara's gebruikt, die geleend werden van school.
     
   4. Protocol & Formulier:
-    * Samen met Tony hebben we een [protocol](ProtocolOpname.pdf) gemaakt voor het opnemen van beelden (exercises)
+    * Samen met Tony heb ik een [protocol](ProtocolOpname.pdf) gemaakt voor het opnemen van beelden (exercises)
     * Een [formulier](SteekproefFormulier.pdf) opgesteld voor de proefpersonen.
   
   5. Dag van opname van Data bij de atrium:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
-  6.  Gesprek met opdrachtgeven  manueel Therapeut) van LUMC Leiden:
-    Ik heb 3 keer een afspraak mee gewoond bij de manueel Therapeut in LUMC Leiden. 
+  6.  Gesprek met opdrachtgeven ( manueel Therapeut) van LUMC Leiden:
+    Ik heb 3 keer een afspraak mee gewoond bij de manueel Therapeut in LUMC Leiden. Ik vond het interessant om mee te maken. Bij elke gesprek was het voor ons meer duidelijk wat van ons verwacht wordt.  Wij hebben zelf een patient met schouder klachten kunnen zien. En zij heeft de drie oefeningen voor ons gemaakt en het was voor ons duidelijk te zien dat zij schouder klachten had.
    
-  7. Xml file (FloorClipPlane) begrijpen:
-    * Bij de XML van Kinect waren variabelen die niet helemaal duidelijk waren. Mijn taak was om het [FloorClipPlane](FloorClipPlane.pdf) te onderzoeken. 
-   
+  7. Xml data (FloorClipPlane) begrijpen:
+  De data die de Kinect ons geef na de opname was voor ons in de eerste instantie niet zo duidelijk. Daar zijn we opzoek gegaan naar betekenis of wat ze precies zijn.  Ik heb [FloorClipPlane](FloorClipPlane.pdf) onderzocht.
   8. Data(opgenomenData) naar de Server importeren (Xml of CSV):
     * Data van de opnames van de personen werd op de server geimporteerd.
     * Een [korte uitlegd](Terminal.pdf) gemaakt om te laten zien hoe data geimporteerd of exporteerd wordt door de terminal. Dit had ik gedaan op verzoek van mijn groepleden.
@@ -71,9 +71,11 @@ De taken die ik tijdens het project heb gedaan zijn:
   - Maximale hoek van exercise 3.
     Hier kan de [notebook](max_hoek_ex3.ipynb) krijgen.
     
+    Er staat een korte uitleg van de analyse in de notebook.
+    
   13. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
-    Hier heb ik ook mee geholpen.
+    Hier werd door de hele groepleden samen gewerkt.
    
    
 
