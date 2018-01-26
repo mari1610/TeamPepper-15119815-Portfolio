@@ -17,7 +17,7 @@ De taken die ik tijdens het project heb gedaan zijn:
   5. Dag van opname van Data bij de atrium:
    * Mijn taak was die dag rond te lopen om mensen te uitnodigen voor de opname.
    
-  6.Gesprek met opdrachtgeven  manueel Therapeut) van LUMC Leiden:
+  6.  Gesprek met opdrachtgeven  manueel Therapeut) van LUMC Leiden:
     Ik heb 3 keer een afspraak mee gewoond bij de manueel Therapeut in LUMC Leiden. 
    
   7. Xml file (FloorClipPlane) begrijpen:
