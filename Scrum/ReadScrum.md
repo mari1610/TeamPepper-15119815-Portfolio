@@ -72,13 +72,12 @@ De taken die ik tijdens het project heb gedaan zijn:
   
   ![ClusterP](ClusterP.PNG)
   
-  Hier kan de python [notebook](K-mean.ipynb) krijgen.
+  Hier kan de python [notebook](max_hoek_ex1.ipynb) krijgen.
   
   14. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
-    De stuk die ik heb geschreven is Validatie.
-    
-  15. Demo-vidio:
+    Hier heb ik ook mee geholpen.
+   
    
 
     
