@@ -58,12 +58,16 @@ De taken die ik tijdens het project heb gedaan zijn:
 10. Data opname bij zuiderpark:
   * Op deze  dagheb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
   
- 11. Dashboard:
+ 11. Personen zoeken die klachten hebben vanuit school:
+ We willen mensen uitnodigen met schouder klachten met behulp van de school Portal
+ Hier ben ik samen met Jordy opzoek gegaan naar informatie om de uitnodigingen op de Portal te zitten.
+  
+ 12. Dashboard:
  Er is een mock-up gemaakt hoe de Dashboard zou gaan zien van onze applicatie.
  Jammer genoeg is niet gelukt om te implementeren, maar we hadden wel een idee erover.
  Samen met Bart hebben we de [Mockup](DashBoard.pdf) gemaakt.
   
- 12. Data Clusteren & Analyse:
+ 13. Data Clusteren & Analyse:
   - Maximale hoek van exercise 1.
     Hier kan de [notebook](max_hoek_ex1.ipynb) krijgen.
   - Maximale hoek van exercise 2.
@@ -73,7 +77,7 @@ De taken die ik tijdens het project heb gedaan zijn:
     
     Er staat een korte uitleg van de analyse in de notebook.
     
-  13. Paper:
+  14. Paper:
     Voor het afronden van onze project hebben we een paper geschreven.
     Hier werd door de hele groepleden samen gewerkt.
    
