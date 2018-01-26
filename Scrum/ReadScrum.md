@@ -52,7 +52,7 @@ De taken die ik tijdens het project heb gedaan zijn:
   * Na de vorige validatie is voor gekozen om exercise 3 opnieuw te valideren.
     De reden hiervoor was omdat als groepen dachten we dat de vorige beelden te donker waren om goed de hoeken te meten.
     Voor deze validatie zijn dezelfde stappen van de vorige validatie gemaakt.
-    De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3.pptx) gezet.
+    De resultaten van deze validatie zijn in een [powerpoint](ZuiderParkValiderenOefening3-3.pdf) gezet.
     
 10. Data opname bij zuiderpark:
   * Op deze  dagheb ik meegeholpen voor de opnames. Ik had op deze dag geen specifieke taak, maar ik heb voor gezorg voor de opzitten van de camera's en bij het invullen van het formulier.
